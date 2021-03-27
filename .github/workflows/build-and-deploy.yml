@@ -13,7 +13,6 @@ on:
 
   # jobの名前を書く。
   build:
-    # githubで用意してもらうランナーの定義。
     runs-on: ubuntu-latest
 
     steps:
